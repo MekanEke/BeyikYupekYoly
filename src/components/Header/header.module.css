@@ -1,0 +1,13 @@
+.header {
+    width: 100%;
+    /* height: 70px; */
+    /* background-color: #a9a9a966; */
+    background-color: #eee;
+    display: flex;
+    align-items: center;
+    padding: 15px 10px;
+}
+.calendarInput {
+    display: flex;
+    justify-content: flex-end;
+}

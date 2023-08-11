@@ -1,0 +1,124 @@
+{
+    "customer": [
+        {
+            "id": 1,
+            "name": "Mekan Ekaev",
+            "balance": 247,
+            "currencyName": "TMT",
+            "debt-balance": "525",
+            "accsess": "Vlad"
+        },
+        {
+            "id": 2,
+            "name": "Didar Gayypow",
+            "balance": 269,
+            "currencyName": "TMT",
+            "accsess": "Vlad"
+        },
+        {
+            "id": 3,
+            "name": "Kyyas Ilmyradow",
+            "balance": 126,
+            "currencyName": "TMT",
+            "debt-balance": "525",
+            "accsess": "Vlad"
+        },
+        {
+            "id": 4,
+            "name": "Uzuk Saparowa",
+            "balance": 754,
+            "currencyName": "TMT",
+            "accsess": "Vlad"
+        },
+        {
+            "id": 5,
+            "name": "Atajan Polatow",
+            "balance": 256,
+            "currencyName": "TMT",
+            "debt-balance": "525",
+            "accsess": "Vlad"
+        },
+        {
+            "id": 6,
+            "name": "Islam Muradhanow",
+            "balance": 124,
+            "currencyName": "TMT",
+            "accsess": "Vlad"
+        },
+        {
+            "id": 7,
+            "name": "Kakamyrat Kerwenow ",
+            "balance": 654,
+            "currencyName": "TMT",
+            "debt-balance": "525",
+            "accsess": "Vlad"
+        },
+        {
+            "id": 8,
+            "name": "Danatar Hydyrow ",
+            "balance": 425,
+            "currencyName": "TMT",
+            "accsess": "Vlad"
+        },
+        {
+            "id": 9,
+            "name": "Tagandurdy Bayramdurdyyew",
+            "balance": 695,
+            "currencyName": "TMT",
+            "debt-balance": "525",
+            "accsess": "Vlad"
+        },
+        {
+            "id": 10,
+            "name": "Gurbangyly Batyrow",
+            "balance": 654,
+            "currencyName": "TMT",
+            "accsess": "Vlad"
+        },
+        {
+            "id": 11,
+            "name": "bagtyyar Jumanyazow",
+            "balance": 265,
+            "currencyName": "TMT",
+            "debt-balance": "525",
+            "accsess": "Vlad"
+        },
+        {
+            "id": 12,
+            "name": "Merdan Owezmyradow",
+            "balance": 452,
+            "currencyName": "TMT",
+            "accsess": "Vlad"
+        },
+        {
+            "id": 13,
+            "name": "Tirkish Komekow",
+            "balance": 758,
+            "currencyName": "TMT",
+            "debt-balance": "525",
+            "accsess": "Vlad"
+        },
+        {
+            "id": 14,
+            "name": "Kerwen Gylyjow",
+            "balance": 155,
+            "currencyName": "TMT",
+            "accsess": "Vlad"
+        },
+        {
+            "id": 15,
+            "name": "Haytmyrat Seyidow",
+            "balance": 2546,
+            "currencyName": "TMT",
+            "debt-balance": "525",
+            "accsess": "Vlad"
+        },
+        {
+            "id": 16,
+            "name": "MuhammetMyrat Hojagulyyew",
+            "balance": 350,
+            "currencyName": "TMT",
+            "accsess": "Vlad"
+        }
+    ]
+}
